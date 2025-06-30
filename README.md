@@ -1,11 +1,14 @@
 # NexLy – Team Collaboration Landing Page 🚀
 
-**NexLy** is a modern, responsive, and animated landing page for a fictional team collaboration SaaS product. It features dynamic elements, smooth transitions using GSAP, and a toggleable dark/light theme for a delightful user experience.
+**NexLy** is a modern, responsive and animated landing page for a fictional team collaboration SaaS product. It features dynamic elements, smooth transitions using GSAP and a toggleable dark/light theme for a delightful user experience.
 
-## 🔥 Live Preview
+[Click here to view the live site](https://nexlylandingpage.vercel.app/)\
 
-[Click here to view the live site](https://your-live-link.vercel.app)\
-*(Replace with your actual deployment link)*
+---
+
+## 📸 Screenshots
+
+![Hero Screenshot](./src/assets/nexly_preview.png)
 
 ---
 
@@ -40,7 +43,7 @@ NexLy-landing_page/
 │   ├── assets/               # Images, video, logo
 │   ├── components/           # All React components (Navbar, HeroSection, etc.)
 │   ├── animations/           # GSAP animation logic
-│   ├── constants/            # Navigation items
+│   ├── constants/            # Content for the project
 │   ├── App.jsx
 │   ├── main.jsx
 │
@@ -65,17 +68,10 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
-
-\
-\
-*(You can take and upload screenshots to **``** and update the paths)*
-
----
 
 ## 🧠 Inspiration
 
-The project draws inspiration from productivity tools like Slack, Notion, and ClickUp — aiming to showcase how sleek UI/UX and clean animations can make even a fictional brand look premium.
+The project draws inspiration from productivity tools like Slack, Notion and ClickUp, aiming to showcase how sleek UI/UX and clean animations can make even a fictional brand look premium.
 
 ---
 
@@ -96,7 +92,7 @@ This project is licensed under the MIT License - feel free to use and modify it 
 ## 🤝 Connect with Me
 
 - GitHub: [HariPriya-hub01](https://github.com/HariPriya-hub01)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile) *(Optional)*
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/haripriyaradhakrishnan/)
 
 ---
 
