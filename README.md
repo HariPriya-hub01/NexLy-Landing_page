@@ -2,7 +2,7 @@
 
 **NexLy** is a modern, responsive and animated landing page for a fictional team collaboration SaaS product. It features dynamic elements, smooth transitions using GSAP and a toggleable dark/light theme for a delightful user experience.
 
-[Click here to view the live site](https://nexlylandingpage.vercel.app/)\
+[Click here to view the live site](https://nexlylandingpage.vercel.app/)
 
 ---
 
@@ -92,7 +92,7 @@ This project is licensed under the MIT License - feel free to use and modify it 
 ## 🤝 Connect with Me
 
 - GitHub: [HariPriya-hub01](https://github.com/HariPriya-hub01)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/haripriyaradhakrishnan/)
+- LinkedIn: [Hari Priya](https://www.linkedin.com/in/haripriyaradhakrishnan/)
 
 ---
 
