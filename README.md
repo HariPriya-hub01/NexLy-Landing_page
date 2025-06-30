@@ -91,8 +91,7 @@ This project is licensed under the MIT License - feel free to use and modify it 
 
 ## 🤝 Connect with Me
 
-- GitHub: [HariPriya-hub01](https://github.com/HariPriya-hub01)
-- LinkedIn: [Hari Priya](https://www.linkedin.com/in/haripriyaradhakrishnan/)
+[GitHub](https://github.com/HariPriya-hub01) . [LinkedIn](https://www.linkedin.com/in/haripriyaradhakrishnan/)
 
 ---
 
