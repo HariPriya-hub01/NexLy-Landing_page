@@ -1,8 +1,89 @@
-# React + Vite
+# NexLy – Team Collaboration Landing Page 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**NexLy** is a modern, responsive, and animated landing page for a fictional team collaboration SaaS product. It features dynamic elements, smooth transitions using GSAP, and a toggleable dark/light theme for a delightful user experience.
 
-Currently, two official plugins are available:
+## 🔥 Live Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Click here to view the live site](https://your-live-link.vercel.app)  
+*(Replace with your actual deployment link)*
+
+---
+
+## ✨ Features
+
+- 🌗 **Dark & Light Theme Toggle**
+- 🎥 **Animated Hero Section with Video Background**
+- 🧠 **GSAP Scroll Animations**
+- 📱 **Fully Responsive Design**
+- 📌 **Sticky Navbar with Scroll Links**
+- 💡 **Modular React Components**
+
+---
+
+## 🛠️ Built With
+
+- **React.js**
+- **Tailwind CSS**
+- **GSAP (GreenSock Animation Platform)**
+- **Vite**
+- **Lucide Icons**
+
+---
+
+## 📁 Folder Structure
+
+NexLy-landing_page/
+│
+├── public/
+├── src/
+│ ├── assets/ # Images, video, logo
+│ ├── components/ # All React components (Navbar, HeroSection, etc.)
+│ ├── animations/ # GSAP animation logic
+│ ├── constants/ # Navigation items
+│ ├── App.jsx
+│ ├── main.jsx
+│
+├── tailwind.config.js
+├── index.css
+├── README.md
+└── ...
+
+yaml
+Copy
+Edit
+
+---
+
+## 🚀 Getting Started
+
+Clone and run locally:
+
+```bash
+git clone https://github.com/HariPriya-hub01/NexLy-Landing_page.git
+cd NexLy-Landing_page
+npm install
+npm run dev
+📸 Screenshots
+
+
+(You can take and upload screenshots to assets and update the paths)
+
+🧠 Inspiration
+The project draws inspiration from productivity tools like Slack, Notion, and ClickUp — aiming to showcase how sleek UI/UX and clean animations can make even a fictional brand look premium.
+
+🙌 Acknowledgments
+GSAP Docs
+
+Tailwind CSS
+
+Lucide Icons
+
+📝 License
+This project is licensed under the MIT License - feel free to use and modify it for your own purposes!
+
+🤝 Connect with Me
+GitHub: HariPriya-hub01
+
+LinkedIn: Your LinkedIn (Optional)
+
+Crafted with passion 💻✨
