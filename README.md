@@ -92,8 +92,10 @@ This project is licensed under the MIT License - feel free to use and modify it 
 ## 🤝 Connect with Me
 
 Whether you want to talk code, brainstorm ideas, collaborate or just say hi — I’d love to connect!
-- [GitHub](https://github.com/HariPriya-hub01) . [LinkedIn](https://www.linkedin.com/in/haripriyaradhakrishnan/)
-- Let’s build something amazing together! 
+ 🔗 [GitHub](https://github.com/HariPriya-hub01)
+ 💼 [LinkedIn](https://www.linkedin.com/in/haripriyaradhakrishnan/)
+ 
+ Let’s build something amazing together! 
 
 ---
 
